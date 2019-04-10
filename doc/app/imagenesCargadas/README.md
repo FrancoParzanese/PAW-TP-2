@@ -1,0 +1,1 @@
+Las imágenes cargadas serán ubicadas en este directorio, por lo que debe existir de antemano.
